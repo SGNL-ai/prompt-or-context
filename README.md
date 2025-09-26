@@ -6,21 +6,21 @@ Depending upon what the server and the tool is called, the response is different
 
 ## Basic question:
 
-![Example Output](prompt-or-context-output.jpg)
+![Example Output](static/images/prompt-or-context-output.jpg)
 
 *Example output showing how an LLM behaves when using these toy MCP servers*
 
 ## Asked differently:
-![Alternative Response](prompt-or-context2.jpg)
+![Alternative Response](static/images/prompt-or-context2.jpg)
 
 *This is the response you get when you ask the question differently*
 
 ## Asked differently again:
-![Prompt Response](porc-prompt.jpg)
+![Prompt Response](static/images/porc-prompt.jpg)
 
 *Same question asked differently*
 
 ## Asked same as previous:
-![Context Response](porc-context.jpg)
+![Context Response](static/images/porc-context.jpg)
 
 *Same question asked differently*
